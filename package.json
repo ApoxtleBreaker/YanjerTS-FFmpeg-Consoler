@@ -1,0 +1,27 @@
+{
+  "name": "ffmpeg-consoler",
+  "version": "0.1.0",
+  "description": "A project only to edit videos using ffmpeg",
+  "main": "ffmpeg.js",
+  "scripts": {
+    "start": "node ffmpeg.js"
+  },
+  "dependencies": {
+    "inquirer": "^12.6.0"
+  },
+  "author": {
+    "name": "鄢桀蚀荼-YanjerTS",
+    "email": "yjfankui@hotmail.com"
+  }, 
+  "engines": {
+    "node": "22.14.0"
+  },
+  "optionalDependencies": {
+    "ffmpeg-static": "^7.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yjfankui/ffmpeg-project.git"
+  }
+}
