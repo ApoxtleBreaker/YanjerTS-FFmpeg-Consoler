@@ -1,2 +1,5 @@
 # Node.js 依赖
 node_modules/
+
+# 日志文件
+/log.txt
