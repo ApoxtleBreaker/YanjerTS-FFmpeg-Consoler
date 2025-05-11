@@ -32,6 +32,7 @@
 - 目前仅支持 Windows 系统。
 
 ## 未来规划
+- 加入一键把一个视频按照一个时间剪成两段(或多段)的功能
 - 优化选择逻辑
 - 增加音频提取功能
 - 增加音量更改
@@ -74,6 +75,7 @@ This is a command-line tool based on Node.js and FFmpeg, which is used for video
 - Currently, only Windows system is supported.
 
 ## Future planning
+- Add a function to cut a video into two or more parts at a specified time (or more)
 - Optimize the selection logic
 - Add audio extraction function
 - Add volume adjustment
